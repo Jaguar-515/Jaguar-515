@@ -3,10 +3,6 @@
 ## About me
 I do cool things with a bunch of programming languages lol.
 
-## Contact me
-- Discord: Jaguar#4455
-- Twitter: @j_guar515
-
 ## My repos
 ### ConvertJSON
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaguar-515&repo=ConvertJSON)](https://github.com/realsimplydata/node-stash)
