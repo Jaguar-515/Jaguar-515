@@ -1,7 +1,7 @@
 # Jaguar-515
 
 ## About me
-I do cool things with a bunch of programming languages lol.
+I do cool things with a bunch of programming languages.
 
 ## My repos
 ### ConvertJSON
